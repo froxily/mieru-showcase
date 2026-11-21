@@ -139,7 +139,7 @@ FastAPI app (mieru.main:create_app) — one process
 
 ## Testing
 
-Current status: **118 backend tests** and **113 frontend tests** pass, the typecheck is clean, the build succeeds and Prettier reports no issues.
+Current status: **119 backend tests** and **113 frontend tests** pass, the typecheck is clean, the build succeeds and Prettier reports no issues.
 - **Research:** the original 14 research tests, plus a baseline-regression test.
 - **Olist parity:** API values vs the research pipeline, reconciliation of every breakdown and scorecard, Metric Debugger invariants.
 - **Upload fixtures:** hand-computed results covering the double-count trap, duplicates, returns and discounts, cost reversal, CP932, EU number formats, multi-sheet XLSX, uncached formulas, ambiguous and mixed dates, ragged rows, multiple currencies and split payments.
