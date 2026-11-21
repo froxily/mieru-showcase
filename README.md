@@ -17,6 +17,14 @@
 
 **Live demo:** https://mieru.braveocean-6888a480.centralindia.azurecontainerapps.io (hosted on Azure Container Apps and scaled to zero when idle, so the first visit can take up to a minute to wake it).
 
+![A 26-second tour of the live demo: executive overview, the Metric Debugger, delivery and reviews, and the decision center](docs/media/mieru-tour.gif)
+
+*A 26-second tour of the live demo ([MP4](docs/media/mieru-tour.mp4)).*
+
+| Executive overview | Delivery & reviews |
+| --- | --- |
+| ![MIERU executive overview: GMV, delivered orders, average order value and monthly performance](docs/media/mieru-overview.webp) | ![MIERU delivery and reviews: SLA breach rate, review gap and an adjusted odds ratio of 16.3](docs/media/mieru-delivery.webp) |
+
 MIERU (*mieru*, Japanese for "to be visible") is a full-stack e-commerce analytics product with two workspaces:
 
 | Workspace | What it does |
